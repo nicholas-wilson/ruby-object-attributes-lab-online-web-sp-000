@@ -1,5 +1,5 @@
 class Person
-  attr_accessor :name, :age
+  attr_accessor :name, :job
 
   def talk
     puts "Hello World!"
